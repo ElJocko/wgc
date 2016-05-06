@@ -1,0 +1,52 @@
+.banner {
+    background: #333f50;
+    color: #ffffff;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 110px;
+}
+
+.banner img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+}
+
+body {
+    background: #ffffff;
+}
+
+.wrapper {
+    padding-top: 20%;
+    padding-bottom: 15%;
+}
+
+.description-text {
+    text-align: justify;
+}
+
+.picture-section {
+    padding-top: 20px;
+    padding-bottom: 20 px;
+}
+
+.picture-section img {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.copyright-text {
+    padding-top: 20px;
+    font-size: 0.8em;
+}
+
+h1 a:link, h1 a:visited, h3 a:link, h3 a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+

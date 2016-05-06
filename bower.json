@@ -1,0 +1,18 @@
+{
+  "name": "wgc",
+  "description": "Washington Grand Company web site",
+  "license": "ISC",
+  "moduleType": "node",
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  },
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ]
+}
