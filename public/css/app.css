@@ -1,5 +1,5 @@
 .banner {
-    background: #333f50;
+    background: #152737;
     color: #ffffff;
     top: 0;
     left: 0;
@@ -20,9 +20,19 @@ body {
     background: #ffffff;
 }
 
-.wrapper {
-    padding-top: 20%;
-    padding-bottom: 15%;
+.logo-section {
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+
+.logo-with-text {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.logo-section img {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .description-text {
