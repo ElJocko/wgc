@@ -1,3 +1,25 @@
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+}
+
+body {
+     height: 100%;
+     margin: 0;
+     background: #ffffff;
+ }
+
+.outer-container {
+    min-height: 100%;
+    position: relative;
+}
+
+.container {
+    padding-bottom: 150px;
+}
+
 .banner {
     background: #152737;
     color: #ffffff;
@@ -16,24 +38,19 @@
     height: 110px;
 }
 
+.bottom-banner {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: #799aa5;
+    color: #ffffff;
+    height: 100px;
+}
+
 .bottom-banner img {
     margin-top: 20px;
     margin-left: 20px;
     height: 30px;
-}
-
-.bottom-banner {
-    background: #799aa5;
-    color: #ffffff;
-    left: 0;
-    margin-top: 30px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    height: 100px;
-}
-
-body {
-    background: #ffffff;
 }
 
 .logo-section {
