@@ -16,6 +16,22 @@
     height: 110px;
 }
 
+.bottom-banner img {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+}
+
+.bottom-banner {
+    background: #799aa5;
+    color: #ffffff;
+    left: 0;
+    margin-top: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 100px;
+}
+
 body {
     background: #ffffff;
 }
@@ -59,7 +75,7 @@ body {
 
 .copyright-text {
     padding-top: 20px;
-    padding-left: 10px;
+    padding-left: 20px;
     font-size: 0.8em;
 }
 
