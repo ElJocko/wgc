@@ -3,8 +3,8 @@
   "description": "Washington Grand Company web site",
   "version": "0.1.0",
   "engines": {
-    "node": "0.10.x",
-    "npm": "3.3.x"
+    "node": "6.11.2",
+    "npm": "3.10.10"
   },
   "main": "index.js",
   "scripts": {
