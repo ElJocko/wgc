@@ -118,3 +118,19 @@ h3 {
 .title-image {
     margin-top: 40px;
 }
+
+.main-cover {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.center-image {
+    width: 100%;
+    text-align: center;
+}
+
+.center-heading {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
